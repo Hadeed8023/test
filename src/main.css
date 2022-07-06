@@ -1,0 +1,178 @@
+
+#img1{
+    height: 76vh;
+    width: 65%;
+    margin: 3% 17.5% 0 17.5%;
+    position: relative;
+}
+
+#head1{
+    width: 96%;
+    height: 35px;
+    background-color: #f0ddbf;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    margin: 2.8% 2% 0 2%;
+    position: relative;
+    box-shadow: 4px 4px 10px  lightgray;
+    z-index: -1;
+}
+
+#head2{
+    width: 40%;
+    height: 80px;
+    background-color: white;
+    position: absolute;
+    top: 4%;
+    left: 30%;
+    border-radius:0 0 40% 40%;
+    box-shadow: 2px 2px 10px  lightgrey;
+
+  
+}
+
+#text1{
+    text-align: center;
+    color: #7f7c7c;
+    
+}
+
+#table1{
+
+    position: absolute;
+    top: 21%;
+    left: 2%;
+    letter-spacing: 5px;
+    border-collapse: separate;
+    border-spacing: 6px 2px;
+
+  
+}
+
+#table2{
+
+    position: absolute;
+    top: 55%;
+    left: 2%;
+    letter-spacing: 3px;
+    border-spacing: 6px 2px;
+  
+
+  
+}
+
+#table3{
+
+    position: absolute;
+    top: 21%;
+    left: 18%;
+    letter-spacing: 3px;
+    border-spacing: 6px 2px;
+  
+
+  
+}
+
+#table4{
+
+    position: absolute;
+    top: 21%;
+    left: 34%;
+    letter-spacing: 3px;
+    width: 85px; 
+    border-spacing: 6px 2px;
+}
+
+#table5{
+
+    position: absolute;
+    top: 21%;
+    left: 44%;
+    letter-spacing: 3px;
+    width: 85px; 
+    border-spacing: 6px 2px;
+}
+
+#table7{
+
+    position: absolute;
+    top: 21%;
+    left: 85%;
+    letter-spacing: 3px;
+    width: 80px;
+    border-spacing: 6px 2px;
+    width: 90px;
+
+}
+
+#table8{
+
+    position: absolute;
+    top: 50%;
+    left: 79%;
+    letter-spacing: 3px;
+    border-spacing: 6px 2px;
+
+
+}
+
+#table9{
+
+    position: absolute;
+    top: 73%;
+    left: 79%;
+    letter-spacing: 3px;
+    border-spacing: 6px 2px;
+
+
+}
+
+#table10{
+
+    position: absolute;
+    top: 73%;
+    left: 64%;
+    letter-spacing: 3px;
+    border-spacing: 6px 2px;
+
+
+}
+
+#table6{
+
+    position: absolute;
+    top: 55%;
+    left: 18%;
+    letter-spacing: 2px;
+
+}
+
+#th1{
+    width: 140px;
+    height: 35px;
+    background-color: #f39900;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+
+.td1{
+    background-color: #f5f5f5;
+    border: 1.5px solid #686565;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px 5px 5px 5px;
+    color: #727070
+    ;
+    border-spacing:0 15px;
+    width: 70px;
+    height: 35px;
+    font-weight: 500;
+  
+    
+   
+}
+
